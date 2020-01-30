@@ -613,6 +613,10 @@ h1 {
 
 }
 
+.titles {
+  font-weight: bold;
+}
+
 #portfolio {
   background-color: white;
   text-align: center;
@@ -660,6 +664,7 @@ h1 {
 #portfolio>p {
   font-size: 20px;
   line-height: 28px;
+  text-align: center;
 }
 
 .separator3 {
