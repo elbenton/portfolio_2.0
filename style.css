@@ -185,6 +185,22 @@ h1 {
   text-align: center;
 }
 
+.ftn1_ss {
+  border-width: 0px;
+  border-radius: 0%;
+  height: auto;
+  width: 80%;
+  text-align: center;
+}
+
+.ftn2_ss {
+  border-width: 0px;
+  border-radius: 0%;
+  height: auto;
+  width: 80%;
+  text-align: center;
+}
+
 #portfolio ul {
   padding-left: 0;
 }
